@@ -8,6 +8,10 @@
 | --- | --- | --- |
 | 2026-09-08 | Flask + SQLite | [实现学生运动注册系统](daily/2026-09-08-flask-registration.md) |
 
+## 技术博客
+
+- [使用 Flask 和 SQLite 实现学生运动注册系统](projects/2026-09-08-flask-registration.md)
+
 ## 项目实践
 
 - [CS50X--：Flask 学生运动注册系统](https://github.com/jzd-wq/CS50X--)
