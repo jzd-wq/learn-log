@@ -7,6 +7,7 @@
 | 日期 | 主题 | 内容 |
 | --- | --- | --- |
 | 2026-09-08 | Flask + SQLite | [实现学生运动注册系统](daily/2026-09-08-flask-registration.md) |
+| 2026-09-08 | CS61B：Lists 和 References | [理解链表节点与引用](daily/2026-09-08-cs61b-lists-references.md) |
 
 ## 技术博客
 
@@ -15,6 +16,7 @@
 ## 项目实践
 
 - [CS50X--：Flask 学生运动注册系统](https://github.com/jzd-wq/CS50X--)
+- [date-list：CS61B Lists 和 References 学习代码](code/date-list/)
 
 ## 记录方式
 
