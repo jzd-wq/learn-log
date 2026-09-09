@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | 2026-09-08 | Flask + SQLite | [实现学生运动注册系统](daily/2026-09-08-flask-registration.md) |
 | 2026-09-08 | CS61B：Lists 和 References | [理解链表节点与引用](daily/2026-09-08-cs61b-lists-references.md) |
+| 2026-09-09 | 链表进阶与 Maven 测试 | [Maven 依赖配置、JUnit 单元测试与开发规范](daily/2026-09-09-maven-junit-development.md) |
 
 ## 技术博客
 
@@ -17,6 +18,7 @@
 
 - [CS50X--：Flask 学生运动注册系统](https://github.com/jzd-wq/CS50X--)
 - [date-list：CS61B Lists 和 References 学习代码](code/date-list/)
+- [practice1-Maven：Maven 和 JUnit 学习代码](code/practice1-Maven/)
 
 ## 记录方式
 
